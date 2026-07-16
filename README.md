@@ -4,12 +4,12 @@
 
 NoSQL & Vector Databases course.
 
-Project includes:
+## Project includes:
+
 - arXiv dataset processing
 - SPECTER2 embeddings
 - Pinecone vector database
 - Semantic search
-- Hybrid search (BM25 + Vector Search)
 
 ## Реалізація
 
@@ -23,6 +23,8 @@ Project includes:
 
 ## Приклади запитів
 
+Приклади виконаних пошукових запитів:
+
 - machine learning neural networks
 - artificial intelligence machine learning
 - computer vision deep learning
@@ -31,4 +33,8 @@ Project includes:
 
 Векторна база даних дозволяє знаходити документи за змістом, а не лише за точним збігом ключових слів.
 
-Author: Olesia Petrovskа
+Semantic search показав, що embeddings дозволяють знаходити тексти зі схожим значенням навіть тоді, коли слова у запиті та документах відрізняються.
+
+## Author
+
+Olesia Petrovska
