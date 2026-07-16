@@ -11,4 +11,24 @@ Project includes:
 - Semantic search
 - Hybrid search (BM25 + Vector Search)
 
+## Реалізація
+
+У проєкті виконано:
+
+- завантаження та підготовку набору даних arXiv;
+- створення embeddings (векторних представлень тексту);
+- збереження векторів у Pinecone;
+- виконання semantic search за допомогою cosine similarity;
+- перевірку пошуку за різними текстовими запитами.
+
+## Приклади запитів
+
+- machine learning neural networks
+- artificial intelligence machine learning
+- computer vision deep learning
+
+## Висновок
+
+Векторна база даних дозволяє знаходити документи за змістом, а не лише за точним збігом ключових слів.
+
 Author: Olesia Petrovskа
